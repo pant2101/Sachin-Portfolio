@@ -319,7 +319,7 @@ section .title::after {
 }
 
 .button1:nth-child(3):hover .icon {
-  background: #1da1f2;
+  background: #000;
 }
 
 .button1:nth-child(4):hover .icon {
